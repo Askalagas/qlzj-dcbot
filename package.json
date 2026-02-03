@@ -1,0 +1,14 @@
+{
+  "name": "qlzj-bot",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {},
+  "dependencies": {
+    "discord.js": "^14.25.1",
+    "dotenv": "^17.2.3",
+    "node-cron": "^4.2.1",
+    "openai": "^6.17.0"
+  }
+}
